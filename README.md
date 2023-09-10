@@ -1,22 +1,20 @@
 # Eye_Exercise
 
 **Title Description of Project**
-Have you ever heard of PacMan? Well, he is back! This neat game allows you to bring him to your local browser. You'll be able to generate as many PacMen as your machine can handle and they will all bounce around with a life of their own. Enjoy!
+When you are passing by a doll and its eyes slowly follow you, it can send a chill down your spine. Imagine if those same eyes are following your cursor! 
+This fun program will summon two eyes onto your browser and they are deadset on tracking your cursor... Wherever it goes! Enjoy!
 
 **How To Run**
-Create a Folder on your desktop. Name it Pacman Game.
-Download all files into this folder on your desktop. 
+Create a Folder on your desktop. Name it "Eye_Movement".
+Download all files into the Eye_Movement folder on your desktop. 
 Navigate to the folder, located on your desktop and open it.
-Open the file named Index.html
-  *This will open up your primary browser which will display two buttons: [Add PacMan] & [Start Game].
-Click on [Add PacMan] to generate a PacMan image on your browser.
-Once you have created a PacMan, click on the [Start Game] button to make the PacMan move.
-Feel free to create as many Pacmen as you like by clicking the [Add PacMan] button. 
-  *Because the [Start Game] button has already been clicked, the new Pacmen will automatically start moving upon creation.
+Open the file named index.html
+  *This will open up your primary browser which will display two eyes.
+Move your mouse across the screen and watch as the eyes track your cursor. It's very spooky!
 
 **Roadmap of Future Improvements**
-I plan on updating the image portion of the code to allow the creation of different images. When the [Add PacMan] button is pressed, it will generate different images of PacMan. 
-This new button will allow the user to control the speed of the PacMen and reverse their direction.
+I plan on having the eyes look away from the cursor as if they are trying hard to ignore you. 
+I'm also planning on adding a button that turns on/off the eyes tracking the cursor. 
 
 **License Information**
 MIT License
